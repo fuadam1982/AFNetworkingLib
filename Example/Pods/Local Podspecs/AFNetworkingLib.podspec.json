@@ -1,0 +1,22 @@
+{
+  "name": "AFNetworkingLib",
+  "version": "0.1.0",
+  "summary": "A short description of AFNetworkingLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fuadam1982/AFNetworkingLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fuadam1982": "fuadam1982@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fuadam1982/AFNetworkingLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AFNetworkingLib/Classes/**/*"
+}

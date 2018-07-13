@@ -1,0 +1,6 @@
+framework module Pods_AFNetworkingLib_Tests {
+  umbrella header "Pods-AFNetworkingLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

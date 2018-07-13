@@ -1,0 +1,16 @@
+PODS:
+  - AFNetworkingLib (0.1.0)
+
+DEPENDENCIES:
+  - AFNetworkingLib (from `../`)
+
+EXTERNAL SOURCES:
+  AFNetworkingLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AFNetworkingLib: 014ac6985d2dba85a5a64c02b7e31e33b6758572
+
+PODFILE CHECKSUM: ebfa20b600b5cbc9a4174ef99ede550494d57456
+
+COCOAPODS: 1.4.0
