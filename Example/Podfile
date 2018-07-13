@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AFNetworkingLib_Example' do
+  pod 'AFNetworkingLib', :path => '../'
+
+  target 'AFNetworkingLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
